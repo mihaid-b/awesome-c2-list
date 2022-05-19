@@ -41,7 +41,6 @@ Table of Contents
 * [Empire](https://github.com/BC-SECURITY/Empire): post-exploitation framework that includes a pure-PowerShell2.0 Windows agent, and a pure Python 2.6/2.7 Linux/OS X agent
 * [Covenant](https://github.com/cobbr/Covenant): .NET command and control framework that aims to highlight the attack surface of .NET, make the use of offensive .NET tradecraft easier, and serve as a collaborative command and control platform for red teamers.
 * [Silent Trinity](https://github.com/byt3bl33d3r/SILENTTRINITY): post-exploitation agent powered by Python, IronPython, C#/.NET.
-* [Faction C2](https://github.com/FactionC2/): C2 framework which use websockets based API that allows for interacting with agents and transports.
 * [Flying A False Flag](https://github.com/monoxgas/FlyingAFalseFlag)
 * [FudgeC2](https://github.com/Ziconius/FudgeC2): Powershell C2 platform designed to facilitate team collaboration and campaign timelining.
 * [Godoh](https://github.com/sensepost/goDoH)
