@@ -77,8 +77,7 @@ Table of Contents
 * [EvilVM](https://github.com/jephthai/EvilVM)
 * [Void-RAT](https://github.com/KadeDev/Void-RAT): pretty basic RAT written in c#.net.
 * [WEASEL](https://github.com/facebookincubator/WEASEL): small in-memory implant using Python 3 with no dependencies.
-* [Mythic](https://github.com/its-a-feature/Mythic): A cross-platform, post-exploit, red teaming framework built with python3, docker, docker-compose, and a web browser UI.
-* [Merlin](https://github.com/Ne0nd0g/merlin): Merlin is a cross-platform post-exploitation Command & Control server and agent written in Go.
+* [Mythic](https://github.com/its-a-feature/Mythic): A cross-platform, post-exploit, red teaming framework built with python3, docker, docker-compose, and a web browser UI. 
 * [Silver](https://github.com/BishopFox/sliver): Sliver is an open source cross-platform adversary emulation/red team framework, it can be used by organizations of all sizes to perform security testing.
 * [link](https://github.com/postrequest/link): link provides MacOS, Linux and Windows implants which may lack the necessary evasive tradecraft provided by other more mature command and control frameworks.
 
