@@ -32,6 +32,7 @@ Table of Contents
 ### Open Source
 
 * [link](https://github.com/postrequest/link): link provides MacOS, Linux and Windows implants which may lack the necessary evasive tradecraft provided by other more mature command and control frameworks.
+* [nimc2] (https://github.com/d4rckh/nimc2): nimc2 is a very lightweight C2 written fully in nim (implant & server
 * [Mythic Agents](https://github.com/orgs/MythicAgents/repositories): Multiple agents (written in differet languages) compaible with Mythic C2. 
 
 ## Online Resources
