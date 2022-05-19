@@ -46,7 +46,7 @@ Table of Contents
 * [Godoh](https://github.com/sensepost/goDoH)
 * [iBombshell](https://github.com/ElevenPaths/ibombshell)
 * [HARS](https://github.com/onSec-fr/Http-Asynchronous-Reverse-Shell): HTTP/S Asynchronous Reverse Shell.
-* [Koadic (or COM Command & Control)](https://github.com/zerosum0x0/koadic): is a Windows post-exploitation rootkit similar to other penetration testing tools such as Meterpreter and Powershell Empire.
+* [Koadic (or COM Command & Control)](https://github.com/fymore/koadic): is a Windows post-exploitation rootkit similar to other penetration testing tools such as Meterpreter and Powershell Empire.
 * [MacShellSwift](https://github.com/cedowens/MacShellSwift/)
 * [Ninja](https://github.com/ahmedkhlief/Ninja/): Open source C2 server created by Purple Team to do stealthy computer and Active directoty enumeration without being detected by SIEM and AVs.
 * [NorthStarC2](https://github.com/EnginDemirbilek/NorthStarC2): open-source command and control framework developed for penetration testing and red teaming purposes.
