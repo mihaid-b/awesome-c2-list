@@ -63,7 +63,6 @@ Table of Contents
 * [Throwback](https://github.com/silentbreaksec/Throwback)
 * [Trevor C2](https://github.com/trustedsec/trevorc2): legitimate website (browsable) that tunnels client/server communications for covert command execution.
 * [Metasploit Framework](https://github.com/rapid7/metasploit-framework): computer security project that provides information about security vulnerabilities and aids in penetration testing and IDS signature development
-* [Meterpreter](https://github.com/r00t-3xp10it/meterpeter)
 * [Pupy](https://github.com/n1nj4sec/pupy): opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python.
 * [PetaQ](https://github.com/fozavci/petaqc2): malware which is being developed in .NET Core/Framework to use websockets as Command & Control (C2) channels.
 * [Pinjectra](https://github.com/SafeBreach-Labs/pinjectra): C/C++ library that implements Process Injection techniques (with focus on Windows 10 64-bit) in a "mix and match" style.
