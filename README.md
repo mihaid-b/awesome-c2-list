@@ -55,3 +55,4 @@ Table of Contents
 * [Command & Control tools course](https://www.youtube.com/watch?v=bUqu8fh7xUg), in Pt-Br language.
 * [How Hackers Use Discord To Control Victim PC’s](https://www.youtube.com/watch?v=_OXyb_Oxmjg)
 * [From Zero to Hero: How to Create a Custom Mythic Agent - Cody Thomas and Josiah Massari](https://www.youtube.com/watch?v=xdmdHMjK1KA&t=3596s)
+* [Create Your Own Command & Control Framework Over SSH](https://www.youtube.com/watch?v=iP7eFbZPgss)
