@@ -43,7 +43,6 @@ Table of Contents
 
 ## Articles
 
-* [A comparisson of C2 frameworks](https://www.sans.org/cyber-security-summit/archives/file/summit-archive-1574188899.pdf)
 * [Flying a False Flag](https://i.blackhat.com/USA-19/Wednesday/\us-19-Landers-Flying-A-False-Flag-Advanced-C2-Trust-Conflicts-And-Domain-Takeover.pdf)
 * [MacShellSwift: PoC MacOS post exploitation tool in Swift](https://securityonline.info/macshellswift-poc-macos-post-exploitation-tool-in-swift/)
 * [Throwback Thursday – A Guide to Configuring Throwback](https://silentbreaksecurity.com/throwback-thursday-a-guide-to-configuring-throwback/)
@@ -55,3 +54,4 @@ Table of Contents
 * [RedViper](https://www.youtube.com/watch?v=rk4EMhq30-M)
 * [Command & Control tools course](https://www.youtube.com/watch?v=bUqu8fh7xUg), in Pt-Br language.
 * [How Hackers Use Discord To Control Victim PC’s](https://www.youtube.com/watch?v=_OXyb_Oxmjg)
+* [From Zero to Hero: How to Create a Custom Mythic Agent - Cody Thomas and Josiah Massari](https://www.youtube.com/watch?v=xdmdHMjK1KA&t=3596s)
