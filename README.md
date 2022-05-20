@@ -43,7 +43,6 @@ Table of Contents
 
 ## Articles
 
-* [Flying a False Flag](https://i.blackhat.com/USA-19/Wednesday/\us-19-Landers-Flying-A-False-Flag-Advanced-C2-Trust-Conflicts-And-Domain-Takeover.pdf)
 * [MacShellSwift: PoC MacOS post exploitation tool in Swift](https://securityonline.info/macshellswift-poc-macos-post-exploitation-tool-in-swift/)
 * [Throwback Thursday – A Guide to Configuring Throwback](https://silentbreaksecurity.com/throwback-thursday-a-guide-to-configuring-throwback/)
 * [Voodoo CE Quickstart](https://medium.com/stage-2-security/voodoo-ce-quickstart-ba77eb37eda5)
